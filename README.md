@@ -7,4 +7,6 @@ git config --global init.defaultBranch main
 git config --global --list
 
 git init
+git add f1.py
+git commit -m "v1 code"
 ```
